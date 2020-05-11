@@ -1,3 +1,6 @@
+Jquery source code....
+
+
 function vision(){
    alert("Vision and strategy are both important to your marketing success. But there is a priority to them. Vision always comes first. If you develop a clear vision, you will attract the right strategy. If you don’t have a clear vision, no strategy will save you.");
 }
